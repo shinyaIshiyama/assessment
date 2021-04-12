@@ -93,4 +93,4 @@ function assessment(userName) {
     let result = answers[index];
     result = result.replaceAll('{userName}', userName);
     return result;
-}
+} 
